@@ -8,7 +8,7 @@ Penn Genomics and Computational Biology -- i emailed the program director for Pe
 
 University of Maryland BISI -- computational biology phd -- safety school, i would need an apartment that has EV charging and i want to live in bethesda again, there are some Rust people at UMD
 
-Rutgers Biochemistry -- i dunno how this is going to turn out -- send out emails to PIs todayyy
+Rutgers Biochemistry -- i dunno how this is going to turn out -- send out emails to PIs todayyy -- they said i have a competitive application i just need good LoRs hmmmm getting in here would be great bc i can teach that bioinformatics class
 
 NYU Biomedical Sciences -- i have to start emailing them for zoom meetings in august -- send out emails to PIs todayyy
 
