@@ -16,4 +16,6 @@ Rutgers Biochemistry -- i dunno how this is going to turn out -- send out emails
 NYU Biomedical Sciences -- i have to start emailing them for zoom meetings in august -- send out emails to PIs todayyy -- https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/phd-program/phd-program-admissions they opened up their app, i emailed some PIs today, Virtual Open House: October 2, 2024, at 12:00PM EST
 
 Tri-I -- no one responds to any emails at this school ("never ascribe to malice that which is adequately explained by incompetence"), so unprofessional, whats the point in asking for zoom meetings, ill just apply whatever  -- send out emails to PIs todayyy -- okay so one person responded and they suggested i apply to the IMP PhD Program https://gradschool.weill.cornell.edu/programs/immunology-microbial-pathogenesis i guess i will do that
+
+UCSD Bioinformatics and Systems Biology PhD https://bioinformatics.ucsd.edu/admissions/grad/admissions -- maybeee
 -->
