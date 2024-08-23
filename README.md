@@ -18,4 +18,6 @@ NYU Biomedical Sciences -- i have to start emailing them for zoom meetings in au
 Tri-I -- no one responds to any emails at this school ("never ascribe to malice that which is adequately explained by incompetence"), so unprofessional, whats the point in asking for zoom meetings, ill just apply whatever  -- send out emails to PIs todayyy -- okay so one person responded and they suggested i apply to the IMP PhD Program https://gradschool.weill.cornell.edu/programs/immunology-microbial-pathogenesis i guess i will do that
 
 UCSD Bioinformatics and Systems Biology PhD https://bioinformatics.ucsd.edu/admissions/grad/admissions -- maybeee
+
+im really interested in peptide therapy, trying to find labs at each school where someone is working on it, im gonna mention it in my personal statement
 -->
