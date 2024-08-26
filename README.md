@@ -20,4 +20,6 @@ Tri-I -- no one responds to any emails at this school ("never ascribe to malice 
 UCSD Bioinformatics and Systems Biology PhD https://bioinformatics.ucsd.edu/admissions/grad/admissions -- maybeee
 
 im really interested in peptide therapy, trying to find labs at each school where someone is working on it, im gonna mention it in my personal statement
+
+Yale Computational Biology and Biomedical Informatics -- https://cbb.yale.edu/ never applied, likely this cycle
 -->
