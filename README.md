@@ -15,11 +15,15 @@ Rutgers Biochemistry -- i dunno how this is going to turn out -- send out emails
 
 NYU Biomedical Sciences -- i have to start emailing them for zoom meetings in august -- send out emails to PIs todayyy -- https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/phd-program/phd-program-admissions they opened up their app, i emailed some PIs today, Virtual Open House: October 2, 2024, at 12:00PM EST
 
+mskcc cancer engineering phd -- applying to this https://www.sloankettering.edu/gerstner/cancer-engineering -> "Integrative Computational Biology and Oncology" the faculty are the mskcc software engineering iv computational oncology group, maybe this works out instead i dunno
+
 Tri-I -- no one responds to any emails at this school ("never ascribe to malice that which is adequately explained by incompetence"), so unprofessional, whats the point in asking for zoom meetings, ill just apply whatever  -- send out emails to PIs todayyy -- okay so one person responded and they suggested i apply to the IMP PhD Program https://gradschool.weill.cornell.edu/programs/immunology-microbial-pathogenesis i guess i will do that -- the app opened, i looked at it quickly, it now asks "Which areas of research are you most interested in? Please list up to three areas of research:" so i have to figure that out based on the labs im interested in ... __peptide therapy & glp-1s__ thooo lol im gonna add that no one can stop me lol
 
 this is for tri-i: "Thanks for your interest in our program and sorry for the delay in getting back to you. It looks like you have very extensive and relevant experience.
 -----
 Regarding GPA, admission to our program is quite competitive: less than 10% of our applicants receive offers of admission, and the average GPA of the applicants invited to interview is around 3.8. We have interviewed and admitted students with low undergraduate GPAs, usually those candidates are ones like yourself with extensive bioinformatics experience and papers but in almost all cases, those candidates also had a Masters degree with high GPA. **In the rare exception, we had direct knowledge of the candidate and their ability to thrive in our program.** Neither of those two things guarantees that the candidate will be invited to interview."
+
+"The committee assesses approximately 400 applications, they tend not to have the bandwidth to look at anything besides the application package and perhaps some papers."
 -----
 
 -----
