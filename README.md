@@ -32,7 +32,14 @@ You have a fantastic background and if you come to the Tri-I I would love to spe
 
 from a PI i emailed ... yeah but the program gets 400 applicants ughh
 -----
+"Nice to e-meet and thanks for reaching out. You look like a great candidate for the programs, and I’d certainly encourage you to apply.
 
+I’m not able to meet with prospective applicants beforehand, so I’d encourage you to list me as a faculty member for either program that you’d be interested in working with and we can continue the discussion there. 
+
+Best of luck applying— I think you’ll do well! "
+
+yeah ... but they get 400 applicants :-|
+-----
 UCSD Bioinformatics and Systems Biology PhD https://bioinformatics.ucsd.edu/admissions/grad/admissions -- maybeee
 
 im really interested in peptide therapy, trying to find labs at each school where someone is working on it, im gonna mention it in my personal statement
