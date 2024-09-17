@@ -2,6 +2,22 @@
 # making small or large progress every single day
 # i have a competitive application, BUT i just need to put it together **well** by december
 # aiming to finish apps by like october
+<!---
+The list for this year!
+
+| Location      | School    | Program            | Advisor(s) of interest to tailor personal statement to  |
+| ------------- | --------- | ------------------ | ------------------------------------------------------- |
+| NYC           | MSKCC     | Cancer Engineering | Shah (Comp. Oncology), Lareau                           |
+| NYC           | WCM       | Tri-I              | Shah (Comp. Oncology), Lareau                           |
+| NYC           | WCM       | IMP                | Melnick                                                 |
+| NYC           | Icahn SOM | Comp Biology/AI    | Not sure yet                                            |
+| NYC           | NYU       | Comp Biology       | Not sure yet                                            |
+| NYC/Abu Dhabi | NYU       | Biology            | Not sure yet                                            |
+| NJ            | Rutgers   | Biochemistry       | Awaiting emails but in emails                           |
+| Maryland      | UMD       | BISI/Comp Biology  | Any of the comp bio faculty                             |
+| PA            | Penn      | Comp Biology       | Not sure yet                                            |
+-->
+
 <!--
 the list for this year:
 
