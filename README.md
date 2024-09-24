@@ -11,11 +11,11 @@ The list for this year!
 | NYC           | WCM       | Tri-I              | Shah (Comp. Oncology), Lareau                           |
 | NYC           | WCM       | IMP                | Melnick                                                 |
 | NYC           | Icahn SOM | Comp Biology/AI    | Not sure yet                                            |
-| NYC           | NYU       | Comp Biology       | Not sure yet                                            |
+| NYC           | NYU       | Comp Biology       | i have a zoom meeting with an interested PI!!           |
 | NYC/Abu Dhabi | NYU       | Biology            | Not sure yet                                            |
 | NJ            | Rutgers   | Biochemistry       | Awaiting emails but in emails                           |
 | Maryland      | UMD       | BISI/Comp Biology  | Any of the comp bio faculty                             |
-| PA            | Penn      | Comp Biology       | Not sure yet                                            |
+| PA            | Penn      | Comp Biology       | i have a zoom meeting with an interested PI!!           |
 -->
 
 <!--
