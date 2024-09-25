@@ -13,7 +13,7 @@ The list for this year!
 | NYC           | Icahn SOM | Comp Biology/AI    | Not sure yet                                            |
 | NYC           | NYU       | Comp Biology       | i have a zoom meeting with an interested PI!!           |
 | NYC/Abu Dhabi | NYU       | Biology            | Not sure yet                                            |
-| NJ            | Rutgers   | Biochemistry       | Awaiting emails but in emails                           |
+| NJ            | Rutgers   | Biochemistry       | Awaiting emails but in emails, current PI, but the lab is filled, i dont want to be in a lab with so many phd students at one time                           |
 | Maryland      | UMD       | BISI/Comp Biology  | Any of the comp bio faculty                             |
 | PA            | Penn      | Comp Biology       | i have a zoom meeting with an interested PI!!           |
 -->
