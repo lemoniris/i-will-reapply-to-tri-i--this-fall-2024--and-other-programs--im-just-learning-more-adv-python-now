@@ -7,7 +7,7 @@ The list for this year!
 
 | Location      | School    | Program            | Advisor(s) of interest to tailor personal statement to  |
 | ------------- | --------- | ------------------ | ------------------------------------------------------- |
-| NYC           | MSKCC     | Cancer Engineering | Shah (Comp. Oncology), Lareau                           |
+| NYC           | MSKCC     | Cancer Engineering | Shah (Comp. Oncology), Lareau (i like this lab, they do stuff with droplet seq and etc)                           |
 | NYC           | WCM       | Tri-I              | Shah (Comp. Oncology), Lareau                           |
 | NYC           | WCM       | IMP                | Melnick                                                 |
 | NYC           | Icahn SOM | Comp Biology/AI    | Not sure yet                                            |
